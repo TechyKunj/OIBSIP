@@ -1,7 +1,3 @@
-Here’s a sample README file for your Oasis Infobyte project:
-
----
-
 # Oasis Infobyte Internship Projects
 
 ## Overview
